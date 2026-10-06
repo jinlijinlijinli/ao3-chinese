@@ -1,10 +1,11 @@
-版本号:1.0.1
-维护者:BigRibosomal
+版本号:1.0.2
+维护者:jinli
 更新时间:2026-08-20
 
 词条
 
 //可玩角色
+centuries:百年
 Raiden Ei:雷电 影
 Archon:神明
 Guuji:宫司
