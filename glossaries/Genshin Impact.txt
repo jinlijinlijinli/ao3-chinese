@@ -5,6 +5,7 @@
 词条
 
 //可玩角色
+Guuji:宫司
 Sandrone:桑多涅
 Marionette:「木偶」
 Marionette Guillotin = 小玛丽安·吉约丹
