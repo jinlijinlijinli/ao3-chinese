@@ -5,6 +5,8 @@
 词条
 
 //可玩角色
+Raiden Ei:雷电 影
+Archon:神明
 Guuji:宫司
 Sandrone:桑多涅
 Marionette:「木偶」
